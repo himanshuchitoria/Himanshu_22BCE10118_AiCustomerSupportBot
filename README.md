@@ -186,6 +186,18 @@ This project was developed by Himanshu
 
 ---
 
+## Scrrenshots of chats showing some of the features of ai powered support bot .
+
+<img width="640" height="964" alt="Screenshot 2025-10-13 132830" src="https://github.com/user-attachments/assets/bb250590-28b8-4122-b946-4d913e55c24a" />
+
+<img width="615" height="964" alt="Screenshot 2025-10-13 132457" src="https://github.com/user-attachments/assets/19ed371a-40ab-4c88-8f9c-8619b67e6129" />
+
+<img width="613" height="962" alt="Screenshot 2025-10-13 132533" src="https://github.com/user-attachments/assets/1cf3f975-839a-4e95-9e6c-443cd36b4647" />
+
+<img width="621" height="962" alt="Screenshot 2025-10-13 132606" src="https://github.com/user-attachments/assets/8e2170e0-0fa2-40eb-8c18-5d6a34289072" />
+
+
+
 
 
 
