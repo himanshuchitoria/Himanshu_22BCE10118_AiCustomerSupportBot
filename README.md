@@ -106,7 +106,7 @@ This helps to give more specific answer.
 ## Setup and Deployment Instructions
 
 1. Clone the repository:
-git clone https://github.com/yourusername/ai-customer-support-chatbot.git
+git clone https://github.com/himanshuchitoria/Ai_enabled_customer_support_bot/
 cd ai-customer-support-chatbot
 
 
@@ -196,6 +196,7 @@ This project was developed by Himanshu
 
 <img width="621" height="962" alt="Screenshot 2025-10-13 132606" src="https://github.com/user-attachments/assets/8e2170e0-0fa2-40eb-8c18-5d6a34289072" />
 
+<img width="601" height="196" alt="Screenshot 2025-10-13 133143" src="https://github.com/user-attachments/assets/4b1f2973-7fdb-4dcf-ad6f-bd03b3de352f" />
 
 
 
